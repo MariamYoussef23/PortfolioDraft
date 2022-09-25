@@ -164,7 +164,7 @@ function DesktopNavigation(props) {
         <NavItem href="/about">About</NavItem>
         <NavItem href="/skills">Skills</NavItem>
         <NavItem href="/projects">Projects</NavItem>
-        <NavItem href="/resume">Resume</NavItem>
+        <NavItem  href="/myResume.pdf">Resume</NavItem>
         
         
       </ul>
